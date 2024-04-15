@@ -18,6 +18,7 @@ $_translations = array(
     'title' => 'QRCDR',
     'description' => 'Online QR Code generator',
     'tags' => 'qrcode, php, script',
+	'prettify' => '二维码美化',
     '2FA' => '2FA',
     'address' => 'Adresse',
     'add_to_cart' => 'Add to cart',

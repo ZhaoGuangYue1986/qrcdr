@@ -16,9 +16,10 @@
  * @translate http://silski.pl/
  */
 $_translations = array(
-    'title' => 'QRCDR',
+    'title' => 'Free Online QR Code generator',
     'description' => 'Generator kodów QR',
     'tags' => 'qrcode, php, skrypt',
+	'prettify' => 'QR Code Prettify',
     '2FA' => '2FA',
     'account' => 'Konto',
     'address' => 'Adres',

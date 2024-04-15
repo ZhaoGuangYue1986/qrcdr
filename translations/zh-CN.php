@@ -15,9 +15,10 @@
  * @link      http://veno.es/qrcdr/
  */
 $_translations = array(
-    'title' => 'QRCDR',
-    'description' => '在线二维码生成器',
-    'tags' => 'qrcode, php, script',
+    'title' => '免费在线二维码生成美化',
+    'description' => '二维码免费在线生成美化-免费将网址转成二维码，永久免费！没有跳转提示，支持淘宝链接，微信链接，普通网址转二维码，可以定制图标。',
+    'tags' => 'qrcode, php, script,二维码生成, 二维码美化,二维码生成,二维码生成,qrcode,二维码,网址转二维码,二维码,二维码营销,二维码图片,二维码制作,二维码名片,QR code,二维码是什么,二维码生成,二维码论坛,二维条码,微信二维码 ',
+    'prettify' => '二维码美化',
     '2FA' => '2FA',
     'account' => '帐户',
     'address' => '地址',
@@ -156,4 +157,5 @@ $_translations = array(
     'days' => '天',
     'week' => '周',
     'weeks' => '周',
+	'head-desc' => 'QR Code Prettify',
     );

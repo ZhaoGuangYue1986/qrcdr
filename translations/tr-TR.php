@@ -15,9 +15,10 @@
  * @link      http://veno.es/qrcdr/
  */
 $_translations = array(
-    'title' => 'QR Kod Oluşturucu',
+    'title' => 'Free Online QR Code generator',
     'description' => 'Metin, SMS, Arama, E-posta, Bağlantı, WiFi, Konum, Whatsapp, Skype, Zoom, Kişi Kartı, Etkinlik, PayPal ve Bitcoin için online QR Kod Oluşturucu.',
     'tags' => 'qrcode, online, qr kod',
+	'prettify' => 'QR Code Prettify',
     '2FA' => '2FA',
     'account' => 'Hesap',
     'address' => 'Adres',

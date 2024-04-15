@@ -15,9 +15,10 @@
  * @link      http://veno.es/qrcdr/
  */
 $_translations = array(
-    'title' => 'QRCode',
+    'title' => 'Free Online QR Code generator',
     'description' => 'Générateur de code QR en ligne',
     'tags' => 'qrcode, php, script',
+	'prettify' => 'QR Code Prettify',
     '2FA' => '2FA',
     'account' => 'Compte',
     'address' => 'Adresse',
