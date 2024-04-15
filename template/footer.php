@@ -9,6 +9,15 @@
     </div>
     <hr>
     <div class="row py-2 small mb-3">
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- 底部广告长方形广告 -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-1416119137658217"
+			 data-ad-slot="7130644003"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       <div class="col-6"><?php echo qrcdr()->getString('title').' &copy; '.date('Y'); ?></div>
       <div class="col-6">
         <?php
