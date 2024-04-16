@@ -16,7 +16,7 @@
  */
 $_translations = array(
     'title' => 'Free Online QR Code generator',
-    'description' => 'Metin, SMS, Arama, E-posta, Bağlantı, WiFi, Konum, Whatsapp, Skype, Zoom, Kişi Kartı, Etkinlik, PayPal ve Bitcoin için online QR Kod Oluşturucu.',
+    'description' => 'Metin, SMS, Arama, E-posta, Bağlantı, WiFi, Konum, Whatsapp, Skype, Zoom, Kişi Kartı, Etkinlik, PayPal ve Bitcoin için online QR Kod Oluşturucu.Online QR Code generator-QR Code Generator for URL, vCard,email, phone, wi-fi, paypal,  and more. Add logo, colors, frames, and download in high print quality. Get your free QR Codes now!',
     'tags' => 'qrcode, online, qr kod',
 	'prettify' => 'QR Code Prettify',
     '2FA' => '2FA',
