@@ -3,7 +3,7 @@
     <hr>
   	<div class="row pt-5 pb-4">
     	<div class="col">
-        <h2 class="display-1"><p><?php echo qrcdr()->getString('title'); ?></p></h2>
+        <!--h2 class="display-1"><p><?php echo qrcdr()->getString('title'); ?></p></h2-->
         <p><?php echo qrcdr()->getString('description'); ?></p>
       </div>
     </div>
