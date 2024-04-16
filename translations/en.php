@@ -16,9 +16,9 @@
  */
 $_translations = array(
     'title' => 'Free Online QR Code generator',
-    'description' => 'Online QR Code generator',
+    'description' => 'QR Code Generator for URL, vCard,email, phone, wi-fi, paypal,  and more. Add logo, colors, frames, and download in high print quality. Get your free QR Codes now!',
     'tags' => 'qrcode, php, script',
-	'prettify' => 'QR Code Prettify',
+    'prettify' => 'QR Code Prettify',
     '2FA' => '2FA',
     'account' => 'Account',
     'address' => 'Address',
