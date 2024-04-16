@@ -67,6 +67,8 @@ require dirname(__FILE__).'/'.$relative.'include/head.php';
         }
         qrcdr()->setMainColor(qrcdr()->getConfig('color_primary'));
         ?>
+		<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+        <script>LA.init({id:"3I8AaYOEzwyppBlC",ck:"3I8AaYOEzwyppBlC"})</script>
     </head>
     <body class="<?php echo $body_class; ?>">
         <?php
