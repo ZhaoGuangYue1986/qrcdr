@@ -19,6 +19,7 @@
 			 data-full-width-responsive="true"></ins>
 		<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       <div class="col-6"><?php echo qrcdr()->getString('title').' &copy; '.date('Y'); ?></div>
+	  <div class="col-6"><script type="text/javascript" src="//js.users.51.la/21867161.js"></script></div>
       <div class="col-6">
         <?php
         if (file_exists(dirname(dirname(__FILE__)).'/'.$relative.'template/modals.php')) {
@@ -28,5 +29,5 @@
       </div>
     </div>
   </div>
-  <script type="text/javascript" src="//js.users.51.la/21867161.js"></script>
+  
 </div>
