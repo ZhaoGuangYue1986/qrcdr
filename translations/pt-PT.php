@@ -16,7 +16,7 @@
  */
 $_translations = array(
     'title' => 'Free Online QR Code generator',
-    'description' => 'Online QR Code generator',
+    'description' => 'Free Online QR Code generator',
     'tags' => 'qrcode, php, script',
 	'prettify' => 'QR Code Prettify',
     '2FA' => '2FA',
