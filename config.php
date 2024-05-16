@@ -15,7 +15,7 @@
  * @link      http://veno.es/qrcdr/
  */
 $_CONFIG = array(
-    'lang' => 'zh-CN',                             // main language  'zh-CN'
+    'lang' => 'en',                             // main language  'zh-CN'
     'qrcodes_dir' => 'qrcodes',                 // qr codes directory
     'delete_old_files' => true,                 // delete periodically old files
     'file_lifetime' => 1,                       // delete files older than..(hours) from /qrcodes_dir/
