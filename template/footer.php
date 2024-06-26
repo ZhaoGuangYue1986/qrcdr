@@ -54,11 +54,22 @@
 	<a href="http://tools.vigges.net" target="_blank" style="color:#0000FF;">tools.vigges.net</a>
 	<a href="http://tools.wujigu.com" target="_blank" style="color:#0000FF;">tools.wujigu.com</a>
 	<a href="http://tools.xstack.ru" target="_blank" style="color:#0000FF;">tools.xstack.ru</a>
-	<a href="plugin.php?id=iplus_gezi&amp;op=buy" onclick="showWindow('login', this.href);return false;" style="color:#333333;">点击自助购买广告位</a>
-	<a href="plugin.php?id=iplus_gezi&amp;op=buy" onclick="showWindow('login', this.href);return false;" style="color:#333333;">点击自助购买广告位</a>
-	<a href="plugin.php?id=iplus_gezi&amp;op=buy" onclick="showWindow('login', this.href);return false;" style="color:#333333;">点击自助购买广告位</a>
-	<a href="plugin.php?id=iplus_gezi&amp;op=buy" onclick="showWindow('login', this.href);return false;" style="color:#333333;">点击自助购买广告位</a>
-	<a href="plugin.php?id=iplus_gezi&amp;op=buy" onclick="showWindow('login', this.href);return false;" style="color:#333333;">点击自助购买广告位</a>
+	<a href="http://web-analyze.16892.net" target="_blank" >web-analyze.16892.net</a>
+	<a href="http://web-analyze.55276.net" target="_blank" >web-analyze.55276.net</a>
+	<a href="http://web-analyze.devdocs.uk" target="_blank" >web-analyze.devdocs.uk</a>
+	<a href="http://web-analyze.mlink.in" target="_blank" >web-analyze.mlink.in</a>
+	<a href="http://web-analyze.ogeek.cn" target="_blank" >web-analyze.ogeek.cn</a>
+	<a href="http://web-analyze.ostack.cn" target="_blank" >web-analyze.ostack.cn</a>
+	<a href="http://web-analyze.ostack.cn" target="_blank" >web-analyze.ostack.cn</a>
+	<a href="http://web-analyze.shenghuobao.net" target="_blank" >web-analyze.shenghuobao.net</a>
+	<a href="http://web-analyze.shenzhenjia.cn" target="_blank" >web-analyze.shenzhenjia.cn</a>
+	<a href="http://web-analyze.sqlite.in" target="_blank" >web-analyze.sqlite.in</a>
+	<a href="http://web-analyze.vigge.cn" target="_blank" >web-analyze.vigge.cn</a>
+	<a href="http://web-analyze.vigge.net" target="_blank" >web-analyze.vigge.net</a>
+	<a href="http://web-analyze.vigges.net" target="_blank" >web-analyze.vigges.net</a>
+	<a href="http://web-analyze.wujigu.com" target="_blank" >web-analyze.wujigu.com</a>
+	<a href="http://web-analyze.xstack.ru" target="_blank" >web-analyze.xstack.ru</a>
+	<a href="http://web-analyze.jike.in" target="_blank" >web-analyze.jike.in</a>
     </div>	  
     <div class="row py-2 small mb-3">
 		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
